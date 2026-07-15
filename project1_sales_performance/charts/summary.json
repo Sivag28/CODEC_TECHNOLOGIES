@@ -1,0 +1,20 @@
+{
+  "total_sales": 2297200.8603,
+  "total_profit": 286397.02170000004,
+  "overall_margin": 0.12467217240315608,
+  "total_orders": 5009,
+  "best_month": "Nov",
+  "best_month_sales": 352461.071,
+  "worst_month": "Feb",
+  "top_product": "Canon imageCLASS 2200 Advanced Copier",
+  "top_product_sales": 61599.824,
+  "best_category": "Technology",
+  "best_region": "West",
+  "worst_profit_category": "Furniture",
+  "high_discount_loss_share": 0.9676956209619526,
+  "yoy_growth": {
+    "2016": -0.0283222714702962,
+    "2017": 0.2947152138217084,
+    "2018": 0.20355961535337053
+  }
+}
