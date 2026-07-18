@@ -12,7 +12,7 @@ project1_sales_performance/
 │   └── build_dashboard.py            # Interactive Plotly dashboard builder
 ├── charts/                           # Generated PNG charts + summary.json
 ├── dashboard/
-│   └── sales_dashboard.html          # Open in any browser — fully interactive
+│   └── sales_dashboard.pbix          # Open in PowerBI — fully interactive
 └── reports/
     └── Sales_Performance_Analysis_Report.docx
 ```
