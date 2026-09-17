@@ -138,6 +138,7 @@ Both projects use the **Sample Superstore** retail dataset containing approximat
 - Power BI
 
 ---
+![Alt Text](Future%20Forecasting.png)
 
 # Author
 
