@@ -67,7 +67,7 @@ Analyzed four years (2015–2018) of historical order-level data from the Sample
 - Microsoft Word
 
 ---
-![Alt Text](SalesPerformanceAnalysis.png)
+![Alt Text](Sales%20Performance%20Analysis.png)
 
 # Project 2 – Financial Forecasting
 
